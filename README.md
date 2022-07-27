@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **gilyeon12/gilyeon12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Study%20With%20Me!&fontSize=50&animation=twinkling)
+
+### Hi there 👋
